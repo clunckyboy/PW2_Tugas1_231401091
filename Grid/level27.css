@@ -1,0 +1,9 @@
+#garden {
+  display: grid;
+  grid-template: 3fr 2fr / 200px 1fr 1fr 1fr 1fr
+}
+
+#water {
+  grid-column: 1;
+  grid-row: 1;
+}
